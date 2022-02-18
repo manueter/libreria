@@ -1,0 +1,9 @@
+1;Flores para Algernon;Daniel Keyes;22;
+2;Un mundo feliz;Aldous Huxley;30;
+3;Suenian los androides con ovejas electricas?;Philip K. Dick;35;
+4;El conde de Montecristo;Alexandre Dumas;22;
+5;Duna;Frank Herbert;32;
+6;El extranjero;Albert Camus;30;
+7;Los hermanos Karamazov;Fiodor Dostoyevski;15;
+8;Crimen y castigo;Fiodor Dostoyevski;15;
+9;Cien anios de soledad;Gabriel Garcia Marquez;15;
